@@ -1,0 +1,34 @@
+
+
+.container-fluied{
+    min-height: 100vh;
+    background-color: antiquewhite;
+}
+.row{
+    
+    justify-content: center;
+    align-content:center;
+}
+/* img{
+    border-radius: 20px 0px 0px 20px;
+} */
+ h6{
+    letter-spacing: 4px;
+    
+ }
+ p{
+    font-size: 18px;
+    letter-spacing: 3px;
+
+ }
+ .btn{
+    background-color: hsl(158, 36%, 37%);
+    color: white;
+ }
+ .price{
+    color: hsl(158, 36%, 37%);
+ }
+ h1{
+    font-family: 'Montserrat';
+    font-weight: bolder;
+ }
